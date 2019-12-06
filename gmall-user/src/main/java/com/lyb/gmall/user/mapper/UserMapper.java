@@ -1,7 +1,5 @@
 package com.lyb.gmall.user.mapper;
 
-import com.lyb.gmall.bean.UmsMember;
-import com.lyb.gmall.bean.UmsMember;
 import tk.mybatis.mapper.common.Mapper;
 
 import java.util.List;

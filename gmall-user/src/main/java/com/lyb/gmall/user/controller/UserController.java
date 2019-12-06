@@ -1,9 +1,8 @@
 package com.lyb.gmall.user.controller;
 
-import com.lyb.gmall.bean.UmsMemberReceiveAddress;
-import com.lyb.gmall.service.UserService;
 import com.lyb.gmall.bean.UmsMember;
 import com.lyb.gmall.bean.UmsMemberReceiveAddress;
+import com.lyb.gmall.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

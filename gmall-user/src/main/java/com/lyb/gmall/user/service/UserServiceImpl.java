@@ -1,8 +1,6 @@
 package com.lyb.gmall.user.service;
 
 import com.lyb.gmall.service.UserService;//api的userservice
-import com.lyb.gmall.bean.UmsMember;
-import com.lyb.gmall.bean.UmsMemberReceiveAddress;
 import com.lyb.gmall.user.mapper.UmsMemberReceiveAddressMapper;
 import com.lyb.gmall.user.mapper.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
